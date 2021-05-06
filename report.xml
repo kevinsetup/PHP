@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<detalle_venta>
+  <fecha>2021-05-04</fecha>
+  <nombre>Ing razzuri</nombre>
+  <direccion>Jr german de la pauta</direccion>
+  <dni>71538109</dni>
+  <producto>Yogurts</producto>
+  <documento>Factura</documento>
+  <numero>005</numero>
+  <cantidad>3</cantidad>
+  <stock>5</stock>
+  <subtotal>15</subtotal>
+</detalle_venta>
